@@ -1,0 +1,17 @@
+/* Write your CSS here */
+* {
+  font-family: roboto;
+}
+.ConfigurationController-bg-container {
+  background-color: #475569;
+  padding: 10px;
+}
+.layout-heading {
+  color: #f1f5f9;
+  margin-left: 20px;
+}
+.unordered-element {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 20px;
+}
